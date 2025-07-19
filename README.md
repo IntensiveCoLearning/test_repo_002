@@ -14,13 +14,13 @@
 
 ## 报名时间
 
-- 报名开始时间：2025-07-19
-- 报名结束时间：2025-07-26
+- 报名开始时间：2025-07-10
+- 报名结束时间：2025-07-18
 
 ## 共学时间
 
-- 共学开始时间：2025-07-27
-- 共学结束时间：2025-08-17
+- 共学开始时间：2025-07-19
+- 共学结束时间：2025-07-25
 
 ## 发起人
 
@@ -31,7 +31,9 @@
 
 ## 发起组织
 
-残酷共学发起组织方，可以是多个
+  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
+
+
 
 ## 请假规则
 
@@ -45,13 +47,19 @@ Telegram：
 
 学习内容
 
+
+
 ## 共学激励
 
 打卡成功者福利：https://www.notion.so/lxdao/3eab258b4df44c9cb97319452b2be13b
 
+
+
 ## 更多信息
 
 更多信息内容
+
+
 
 ## 报名和打卡规则
 
