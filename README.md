@@ -91,11 +91,12 @@ Telegram：
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
 <!-- START_COMMIT_TABLE -->
-| Name | 7.27 | 7.28 | 7.29 | 7.30 | 7.31 | 8.01 | 8.02 | 8.03 | 8.04 | 8.05 | 8.06 | 8.07 | 8.08 | 8.09 | 8.10 | 8.11 | 8.12 | 8.13 | 8.14 | 8.15 | 8.16 | 8.17 |
-| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/test_repo_002/blob/main/SIGNUP_AUTOMATION.md) | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| [muxin-web3](https://github.com/IntensiveCoLearning/test_repo_002/blob/main/muxin-web3.md) | | | | | |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Name | 7.18 | 7.19 | 7.20 | 7.21 | 7.22 | 7.23 | 7.24 |
+| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/test_repo_002/blob/main/SIGNUP_AUTOMATION.md) | ⭕️ |   | | | | | |
+| [muxin-web3](https://github.com/IntensiveCoLearning/test_repo_002/blob/main/muxin-web3.md) | ⭕️ |   | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
