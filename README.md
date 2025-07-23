@@ -2,7 +2,7 @@
 
 ## 介绍
 
-介绍内容a
+介绍内容
 
 ## 关键词
 
@@ -15,12 +15,12 @@
 ## 报名时间
 
 - 报名开始时间：2025-07-10
-- 报名结束时间：2025-07-18
+- 报名结束时间：2025-07-19
 
 ## 共学时间
 
-- 共学开始时间：2025-07-19
-- 共学结束时间：2025-07-25
+- 共学开始时间：2025-07-23
+- 共学结束时间：2025-07-30
 
 ## 发起人
 
@@ -31,7 +31,7 @@
 
 ## 发起组织
 
-  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://cdn.lxdao.io/bafkreiay6vxsvv3ksxr75lzzt3iqy3zja3o2epuxh47ivs24p2xs3awexm.png" />
+  [LXDAO](https://lxdao.io/) <img alt="organization-logo" height="60px" width="60px" src="https://avatars.githubusercontent.com/u/167147327?s=200&v=4" />
 
 
 
