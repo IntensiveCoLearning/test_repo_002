@@ -91,11 +91,12 @@ Telegram：
 ✅ = Done ⭕️ = Missed ❌ = Failed
 
 <!-- START_COMMIT_TABLE -->
-| Name | 7.19 | 7.20 | 7.21 | 7.22 | 7.23 | 7.24 |
-| ------------- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/test_repo_002/blob/main/SIGNUP_AUTOMATION.md) | ⭕️ | ⭕️ | ⭕️ | ⭕️ |   | |
-| [muxin-web3](https://github.com/IntensiveCoLearning/test_repo_002/blob/main/muxin-web3.md) | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ✅ | |
+| Name | 7.22 | 7.23 | 7.24 | 7.25 | 7.26 | 7.27 | 7.28 | 7.29 |
+| ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [SIGNUP_AUTOMATION](https://github.com/IntensiveCoLearning/test_repo_002/blob/main/SIGNUP_AUTOMATION.md) | ⭕️ |   | | | | | | |
+| [muxin-web3](https://github.com/IntensiveCoLearning/test_repo_002/blob/main/muxin-web3.md) | ⭕️ | ✅ | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
